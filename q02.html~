@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- Author: Lucas Strycker -->
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+	<title>Question 2</title>
+	<meta charset="UTF-8"/>
+    	<script type="text/javascript" src="sales.js"></script>
+</head>
+<body>
+	<div style="width: 100%;">
+		<div class="header">
+			<nav>
+				<ul>
+					<li><a href="index.html">Previous</a></li>
+					<li><a href="q03.html">Next</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<h1>Intelligence Test: Question 2</h1>
+	<li>G, 3  = J</li>
+	<li>R, 8 = Z</li>
+	<li>A, 5  = F</li>
+	<p>H, 7 = <input type = "text" id = "q2Input"></p> 
+</body>
+</html>

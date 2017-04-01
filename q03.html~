@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!-- Author: Lucas Strycker -->
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+	<title>Question 3</title>
+	<meta charset="UTF-8"/>
+    	<script type="text/javascript" src="sales.js"></script>
+</head>
+<body>
+	<div style="width: 100%;">
+		<div class="header">
+			<nav>
+				<ul>
+					<li><a href="q02.html">Previous</a></li>
+					<li><a href="q04.html">Next</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<h1>Intelligence Test: Question 3</h1>
+	<li>DOG, 1 = DOG</li>
+	<li>CAT, 2 = TAC</li>
+	<li>YES, 7 = YES</li>
+	<li>GOAL, 14 = LAOG</li>
+	<p>SEE, 21 = <input type = "text" id = "q3Input"></p> 
+</body>
+</html>
